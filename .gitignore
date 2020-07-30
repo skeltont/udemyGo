@@ -1,1 +1,5 @@
 .env
+
+# not sure if i need to ignore these, but i feel like i do
+.sum
+.mod
